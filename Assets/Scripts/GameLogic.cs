@@ -25,7 +25,7 @@ public class GameLogic : MonoBehaviour
         if (blackOrWhite == 0)
             turnCounter.text = "Player 1 Turn";
         else
-            turnCounter.text = "Plaer 2 Turn";
+            turnCounter.text = "Player 2 Turn";
     }
 
     // Update is called once per frame
