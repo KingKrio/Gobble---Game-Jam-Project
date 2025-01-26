@@ -6,7 +6,7 @@ public class MainMenu : MonoBehaviour
     // Method to load the first game scene
     public void PlayGame()
     {
-        SceneManager.LoadScene("MainMenu"); // Replace "Scene1" with your scene name
+        SceneManager.LoadScene("GameScene"); // Replace "Scene1" with your scene name
     }
 
     // Method to load the second game scene
